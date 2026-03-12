@@ -1,0 +1,1 @@
+ConsoleWriter.WriteLine("Bienvenido al taller de programación");
